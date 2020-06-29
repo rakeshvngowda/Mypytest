@@ -12,8 +12,9 @@ def mul(a, b):
     
     
 
-=======
-    return a +b
-    
-    
->>>>>>> rakesh
+
+# my name is rakesh
+
+
+n = [1, 2, 3, 4]
+
