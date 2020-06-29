@@ -1,3 +1,4 @@
-def new:
-    print("this is first case")
-    
+mytuple = ('apple', 'banana', 'graph')
+myiter = iter(mytuple)
+for x in myiter:
+    print(x)
